@@ -38,5 +38,5 @@ THEN the saved events persist
 ```
 
 ### Screenshot of Deployed Application
-![screenshot of demo](#)
+![screenshot of demo](./assets/images/plannerScreenshot.png)
 
