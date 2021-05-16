@@ -21,10 +21,10 @@ $(document).ready(function () {
 
         // loop over time blocks
         $(".time-block").each(function () {
-            
+
             var blockTime = parseInt($(this).attr("id").split("task")[1]);
 
-            // To check the time and add the classes for background indicators
+            // To check the time and add the classes for background colors
             if (blockTime < timeNow) {
                 $(this).removeClass("future");
                 $(this).removeClass("present");
