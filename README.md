@@ -3,6 +3,11 @@
 
 Find deployed application [here!](https://ashryan125.github.io/workday-scheduler/)
 
+## Updates as of 5/26
+* Removed minute.js
+* Restructered js file for better clarity
+* added a "noclick" function to save buttons if time has passed time slot
+
 ## Purpose
 A simple calendar app that allows a user to save events for each hour of the day
 
