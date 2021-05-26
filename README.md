@@ -3,7 +3,7 @@
 
 Find deployed application [here!](https://ashryan125.github.io/workday-scheduler/)
 
-## Updates as of 5/26
+## Updates as of 5/26/21
 * Removed minute.js
 * Restructered js file for better clarity
 * added a "noclick" function to save buttons if time has passed time slot
